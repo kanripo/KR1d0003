@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮注疏
-#+DATE: 2015-09-23 09:37:19
-#+PROPERTY: JUAN 43
+#+DATE: 2015-08-24 22:07:16.723143
+#+PROPERTY: ID KR1d0003
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 考證跋語
 <pb:KR1d0003_WYG_043-1a>¶
 　　編修(臣紱/)謹言周官一經或斥爲瀆亂不驗或指¶
 　　爲六國隂謀又因劉歆王安石不善用之而敗詆¶
@@ -28,4 +30,3 @@
 　　字減之又減以至於無鄭賈之文不爲魯魚亥豕¶
 　　所蔽蝕而聖經釐然益明彌仰¶
 聖天子尊經隆禮繼往開來敎澤所敷永永無極謹言¶
-

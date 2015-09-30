@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮注疏
-#+DATE: 2015-09-23 09:37:19
-#+PROPERTY: JUAN 27
+#+DATE: 2015-08-24 22:07:16.334355
+#+PROPERTY: ID KR1d0003
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七
 <pb:KR1d0003_WYG_027-1a>¶
 欽定四庫全書¶
 　周禮注疏卷二十七¶
@@ -650,6 +652,7 @@
 　¶
 　¶
 　周禮注疏卷二十七¶
+#+PROPERTY: JUAN 卷二十七考證
 <pb:KR1d0003_WYG_027-37a>¶
 　周禮注疏卷二十七考證¶
 巾車象路朱樊纓七就疏經直云朱鄭知以朱飾勒者¶
@@ -686,4 +689,3 @@
 　¶
 　¶
 　周禮注疏卷二十七考證¶
-

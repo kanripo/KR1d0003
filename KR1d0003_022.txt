@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮注疏
-#+DATE: 2015-09-23 09:37:19
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:07:16.213548
+#+PROPERTY: ID KR1d0003
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1d0003_WYG_022-1a>¶
 欽定四庫全書¶
 　周禮注疏卷二十二¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　周禮注疏卷二十二¶
+#+PROPERTY: JUAN 卷二十二考證
 <pb:KR1d0003_WYG_022-29a>¶
 　周禮注疏卷二十二考證¶
 大司樂凡有道者有德者使教焉疏尚書傅説云○傅¶
@@ -542,4 +545,3 @@
 凡日月食注嶽在雍州○嶽監本訛嵩今從職方改正¶
 　¶
 　周禮注疏卷二十二考證¶
-

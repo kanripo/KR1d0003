@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮注疏
-#+DATE: 2015-09-23 09:37:19
-#+PROPERTY: JUAN 39
+#+DATE: 2015-08-24 22:07:16.623219
+#+PROPERTY: ID KR1d0003
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十九
 <pb:KR1d0003_WYG_039-1a>¶
 欽定四庫全書¶
 　周禮注疏卷三十九¶
@@ -668,6 +670,7 @@
 　¶
 　¶
 　周禮注疏卷三十九¶
+#+PROPERTY: JUAN 卷三十九考證
 <pb:KR1d0003_WYG_039-38a>¶
 　周禮注疏卷三十九考證¶
 或坐而論道疏按越語云句踐栖㑹稽之上○監本脱¶
@@ -704,4 +707,3 @@
 　¶
 　¶
 　周禮注疏卷三十九考證¶
-

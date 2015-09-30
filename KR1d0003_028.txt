@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮注疏
-#+DATE: 2015-09-23 09:37:19
-#+PROPERTY: JUAN 28
+#+DATE: 2015-08-24 22:07:16.356676
+#+PROPERTY: ID KR1d0003
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十八
 <pb:KR1d0003_WYG_028-1a>¶
 欽定四庫全書¶
 　周禮注疏卷二十八¶
@@ -380,6 +382,7 @@
 　¶
 　¶
 　周禮注疏卷二十八¶
+#+PROPERTY: JUAN 卷二十八考證
 <pb:KR1d0003_WYG_028-22a>¶
 　周禮注疏卷二十八考證¶
 凡軍制卒長皆上士二十五人為兩○石經上士下作¶
@@ -398,4 +401,3 @@
 　¶
 　¶
 　周禮注疏卷二十八考證¶
-

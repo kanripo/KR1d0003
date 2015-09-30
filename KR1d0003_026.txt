@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮注疏
-#+DATE: 2015-09-23 09:37:19
-#+PROPERTY: JUAN 26
+#+DATE: 2015-08-24 22:07:16.309021
+#+PROPERTY: ID KR1d0003
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR1d0003_WYG_026-1a>¶
 欽定四庫全書¶
 　周禮注疏卷二十六¶
@@ -704,6 +706,7 @@
 　¶
 　¶
 　周禮注疏卷二十六¶
+#+PROPERTY: JUAN 卷二十六考證
 <pb:KR1d0003_WYG_026-40a>¶
 　周禮注疏卷二十六考證¶
 甸祝師甸致禽于虞中疏直以禽薦之無祭事○薦監¶
@@ -740,4 +743,3 @@
 　¶
 　¶
 　周禮注疏卷二十六考證¶
-
